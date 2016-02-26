@@ -1,0 +1,9 @@
+c:\users\adan\documents\visual studio 2015\Projects\arduino_controller\arduino_controller\bin\Debug\arduino_controller.exe.config
+c:\users\adan\documents\visual studio 2015\Projects\arduino_controller\arduino_controller\bin\Debug\arduino_controller.exe
+c:\users\adan\documents\visual studio 2015\Projects\arduino_controller\arduino_controller\bin\Debug\arduino_controller.pdb
+c:\users\adan\documents\visual studio 2015\Projects\arduino_controller\arduino_controller\obj\Debug\arduino_controller.csprojResolveAssemblyReference.cache
+c:\users\adan\documents\visual studio 2015\Projects\arduino_controller\arduino_controller\obj\Debug\arduino_controller.Form1.resources
+c:\users\adan\documents\visual studio 2015\Projects\arduino_controller\arduino_controller\obj\Debug\arduino_controller.Properties.Resources.resources
+c:\users\adan\documents\visual studio 2015\Projects\arduino_controller\arduino_controller\obj\Debug\arduino_controller.csproj.GenerateResource.Cache
+c:\users\adan\documents\visual studio 2015\Projects\arduino_controller\arduino_controller\obj\Debug\arduino_controller.exe
+c:\users\adan\documents\visual studio 2015\Projects\arduino_controller\arduino_controller\obj\Debug\arduino_controller.pdb
